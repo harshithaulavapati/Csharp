@@ -1,0 +1,7 @@
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\bin\Debug\day7dotnet.exe.config
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\bin\Debug\day7dotnet.exe
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\bin\Debug\day7dotnet.pdb
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\obj\Debug\day7dotnet.csproj.CoreCompileInputs.cache
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\obj\Debug\day7dotnet.exe
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\obj\Debug\day7dotnet.pdb
+C:\Users\ulavapatih\source\repos\day7dotnet\day7dotnet\obj\Debug\day7dotnet.csproj.AssemblyReference.cache
