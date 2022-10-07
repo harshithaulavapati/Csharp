@@ -32,11 +32,14 @@ namespace day7dotnet
         public static void Main()
     {
             Doctor doctor = new Doctor();
-            Console.WriteLine(doctor._regnno + " " + doctor._name + " " + doctor._feescharged);
+            Console.WriteLine("after  getting  the doctor details");
+            Console.WriteLine($"the doctore regno {doctor._regnno}, the doctor name  {doctor._name}, the doctor feecharged {doctor._feescharged}");
             doctor._regnno = 7867;
-            doctor._name = "lagari";
-            doctor._feescharged = 300;
-            Console.WriteLine(doctor._regnno + " " + doctor._name + " " + doctor._feescharged);
+            doctor._name = "lahari";
+            doctor._feescharged = 400;
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("after setting the doctor details");
+            Console.WriteLine($"the doctore regno {doctor._regnno}, the doctor name  {doctor._name}, the doctor feecharged {doctor._feescharged}");
             Console.ReadLine();
 
 

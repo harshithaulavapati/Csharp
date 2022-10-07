@@ -34,7 +34,7 @@ namespace day7dotnet
         static void Main(string[] args)
         {
             count();
-           // Display();
+            Display();
             Console.ReadLine();
         }
     }
