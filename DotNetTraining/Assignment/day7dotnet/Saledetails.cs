@@ -10,10 +10,9 @@ namespace day7dotnet
     {
       public   int Salesno;
       public   int Productno;
-       public  float Price;
-       public  DateTime Dateofsale;
-       public  int Qty ;
-       public  double TotalAmount;
+      public  float Price;
+     public  int Qty ;
+     public  double TotalAmount;
         
         public Saledetails(int sno,int pno,float p,int qty)
         {
@@ -21,7 +20,7 @@ namespace day7dotnet
             Productno = pno;
             Price = p;
             Qty = qty;
-            //Dateofsale = dsale;
+            
         }
         public void sales()
         {
@@ -36,8 +35,7 @@ namespace day7dotnet
     }
     class Detail
     {
-        //SalesNo, Productno, Price,Qty and Dateof sale through constructor
-
+       
         public static void Main(String [] args)
         {
             Saledetails s = new Saledetails(3,12,200,4);

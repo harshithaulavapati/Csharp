@@ -9,15 +9,14 @@ namespace day7dotnet
     class Scholarship
     {
         int Totalmarks;
-        float fees =100000f;
+        float fees ;
         float amount;
         float per;
         
         public float Merit(int m, float f)
         {
-            Console.WriteLine("enter the totalmarks");
-            Totalmarks = Convert.ToInt32(Console.ReadLine());
-            per = Totalmarks / 3f;
+            Totalmarks = m;
+            fees = f;
             if(Totalmarks >= 70 && Totalmarks<= 80)
                     amount = (fees * 20) / 100;
             else if (Totalmarks > 80 && Totalmarks <= 90) 
@@ -32,7 +31,7 @@ namespace day7dotnet
         }
         public void Scholardisplay()
         {
-            Console.WriteLine($" total marks {Totalmarks},percentage: {per}, schloarshipe amount :{amount}" );
+            Console.WriteLine($" the marks {Totalmarks} , schloarshipe amount :{amount}" );
 
 
         }
@@ -41,7 +40,7 @@ namespace day7dotnet
             static void Main(string[] args)
             {
                 Scholarship sc = new Scholarship();
-                sc.Merit(300, 100000);
+                sc.Merit(300, 50000);
                 sc.Scholardisplay();
                 Console.ReadLine();
 
