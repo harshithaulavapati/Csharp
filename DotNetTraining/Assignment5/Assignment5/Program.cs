@@ -33,8 +33,7 @@ namespace Assignment5
             p.accept();
             Concession concession = new Concession();
             concession.CalculateConcession(50);
-            //concession.CalculateConcession(4);
-            //concession.CalculateConcession(60);
+            
 
             Console.ReadLine();
         }
