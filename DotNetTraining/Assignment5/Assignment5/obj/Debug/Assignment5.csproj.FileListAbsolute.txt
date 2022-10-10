@@ -1,0 +1,10 @@
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.AssemblyReference.cache
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\bin\Debug\Concession.dll
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\bin\Debug\Concession.pdb
+C:\Csharp\DotNetTraining\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CopyComplete

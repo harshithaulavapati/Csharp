@@ -1,0 +1,7 @@
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\bin\Debug\day5dotnet.exe.config
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\bin\Debug\day5dotnet.exe
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\bin\Debug\day5dotnet.pdb
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\obj\Debug\day5dotnet.csproj.AssemblyReference.cache
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\obj\Debug\day5dotnet.csproj.CoreCompileInputs.cache
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\obj\Debug\day5dotnet.exe
+C:\Csharp\DotNetTraining\day5dotnet\day5dotnet\obj\Debug\day5dotnet.pdb
