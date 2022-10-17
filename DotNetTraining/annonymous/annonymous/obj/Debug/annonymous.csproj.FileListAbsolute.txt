@@ -1,0 +1,7 @@
+C:\Csharp\DotNetTraining\annonymous\annonymous\obj\Debug\annonymous.csproj.CoreCompileInputs.cache
+C:\Csharp\DotNetTraining\annonymous\annonymous\bin\Debug\annonymous.exe.config
+C:\Csharp\DotNetTraining\annonymous\annonymous\bin\Debug\annonymous.exe
+C:\Csharp\DotNetTraining\annonymous\annonymous\bin\Debug\annonymous.pdb
+C:\Csharp\DotNetTraining\annonymous\annonymous\obj\Debug\annonymous.exe
+C:\Csharp\DotNetTraining\annonymous\annonymous\obj\Debug\annonymous.pdb
+C:\Csharp\DotNetTraining\annonymous\annonymous\obj\Debug\annonymous.csproj.AssemblyReference.cache
