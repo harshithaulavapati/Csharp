@@ -1,7 +1,0 @@
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\obj\Debug\day12dotnet.csproj.CoreCompileInputs.cache
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\bin\Debug\day12dotnet.exe.config
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\bin\Debug\day12dotnet.exe
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\bin\Debug\day12dotnet.pdb
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\obj\Debug\day12dotnet.exe
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\obj\Debug\day12dotnet.pdb
-C:\Csharp\DotNetTraining\day12dotnet\day12dotnet\obj\Debug\day12dotnet.csproj.AssemblyReference.cache
