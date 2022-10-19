@@ -12,25 +12,30 @@ namespace OnlineAssignment
 {
     class Box
     {
-        public delegate void delmethod(int l, int b);
+        public int length { get; set; }
+        public int breadth { get; set; }
 
-        public class Test
-        {
-            public void  method1(int x, int y)
+
+        
+            public static Box operator +(Box rect1, Box rect2)
             {
-                Console.WriteLine(" the length and breadth");
-                int r1 = x * y;
-                Console.WriteLine($"{r1}");
+                Box temp = new Box();
+                temp.length = rect1.length + rect2.length;
+                temp.breadth = rect1.breadth + rect2.breadth;
+                return temp;
+                
             }
 
-            
-         }
+        
         
         static void Main()
         {
-            Test t = new Test();
-            t.method1(5, 8);
-            delmethod del = new delmethod(t.method1);
+            Box r1 = new Box();
+            Box r2 = new Box();
+            r1.length = 5; r1.breadth = 2;
+            r2.length = 6; r2.breadth = 3;
+            Box r3 = r1 + r2;
+            Console.WriteLine("The Total Length and Breadth is {0} {1}", r3.length, r3.breadth);
             Console.Read();
         }
 
