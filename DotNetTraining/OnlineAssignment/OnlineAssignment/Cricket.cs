@@ -43,7 +43,6 @@ namespace OnlineAssignment
             float avg;
             sum= 80 + 90 + 100 + 178 + 190;
              avg= sum / 5;
-            //avg = sum;
             Console.WriteLine($" the sum is :-  {sum}  the average is :-  {avg}");
         }
 
