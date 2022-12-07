@@ -1,7 +1,0 @@
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\obj\Debug\OnlineAssignment.csproj.AssemblyReference.cache
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\obj\Debug\OnlineAssignment.csproj.CoreCompileInputs.cache
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\bin\Debug\OnlineAssignment.exe.config
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\bin\Debug\OnlineAssignment.exe
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\bin\Debug\OnlineAssignment.pdb
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\obj\Debug\OnlineAssignment.exe
-C:\Csharp\DotNetTraining\OnlineAssignment\OnlineAssignment\obj\Debug\OnlineAssignment.pdb
